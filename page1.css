@@ -1,0 +1,22 @@
+footer {
+  text-align: center;
+}
+
+hr {
+  margin: 30px;
+}
+.container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: stretch;
+}
+.paragraph {
+align-content: center;
+}
+.item2 {
+  align-content: space-between;
+} /* à regler*/
+.item {
+
+}
